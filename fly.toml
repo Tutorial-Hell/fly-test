@@ -1,2 +1,4 @@
 app="fly-test"
 primary_region="ewr"
+auto_stop_machines="stop"
+auto_start_machines=true
